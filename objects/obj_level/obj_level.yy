@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Main",
+    "path": "folders/Objects/Main.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprite_wood",
-    "path": "sprites/sprite_wood/sprite_wood.yy",
+    "name": "spr_levelchoice",
+    "path": "sprites/spr_levelchoice/spr_levelchoice.yy",
   },
   "spriteMaskId": null,
   "visible": true,
